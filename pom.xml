@@ -31,11 +31,11 @@
 <!--            <version>1.10</version>-->
 <!--        </dependency>-->
 
-<!--        <dependency>-->
-<!--            <groupId>e-iceblue</groupId>-->
-<!--            <artifactId>spire.doc.free</artifactId>-->
-<!--            <version>5.2.0</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>e-iceblue</groupId>
+            <artifactId>spire.doc.free</artifactId>
+            <version>5.2.0</version>
+        </dependency>
         <!--word 转 pdf-->
         <dependency>
             <groupId>com.documents4j</groupId>
