@@ -87,9 +87,10 @@ public class Word2PdfJacobUtil {
         }
     }
     public static void main(String[] arg){
-        String docPath = "C:\\Users\\qlzcj\\Desktop\\刘志成-简历-new.docx";
-        String pdfPath = "C:\\Users\\qlzcj\\Desktop\\刘志成-简历-new.pdf";
+        String docPath = "C:\\Users\\qlzcj\\Desktop\\刘志成-简历\\刘志成-简历-new.docx";
+        String pdfPath = "C:\\Users\\qlzcj\\Desktop\\刘志成-简历\\刘志成-简历-new.pdf";
         Word2PdfJacobUtil.documents4jWordToPdf(docPath, pdfPath);
+        System.exit(0);
 //        System.out.println(res);
     }
 }
